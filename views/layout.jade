@@ -1,0 +1,22 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    meta(name='csrf-token', content=_csrf)
+    title #{title} - p5 Gallery
+    link(rel='stylesheet', href='/css/main.css')
+    script(src='/js/lib/jquery.min.js')
+    
+  body
+    block content
+
+    script(src='/js/lib/bootstrap.min.js')
+    script(src='/js/lib/d3.min.js')
+    script(src='js/lib/stack.v1.js')
+    script(src='/js/lib/p5.js')
+    script(src='/js/lib/p5.dom.js')
+    script(src='/js/lib/p5.sound.js')
+    script(src='/js/main.js')
+
