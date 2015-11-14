@@ -1,5 +1,7 @@
 # Slideshow
+
 ---
+
 ### Started with 'hackathon-starter' by sahat
 
 [Hackathon-Starter] (https://github.com/sahat/hackathon-starter)
@@ -48,4 +50,4 @@ I've added a trivial function to introduce a new script to the document for each
 ---
 
 # Yaaaaayeah!
-Documentation!!! I'm kind of new at this open-source community thing, but I want to get good at it. Any constructive advice from seasoned vets, specifically about `why` some code I wrote is bad, how to properly attribute credit to the authors of the code I use, and how to conduct myself in the community is always welcome.
+Documentation!!! I'm kind of new at this open-source community thing, but I want to get good at it. Any constructive advice from seasoned vets, specifically about `why` some code I wrote is bad, how to properly attribute credit to the authors of the code I use, is always really appreciated. 
