@@ -72,5 +72,5 @@ Included in repo in `public/js/lib/` *Not best practicing all over the place!*
 
 # Yaaaaayeah!
 Documentation!!! I'm kind of new at this open-source community thing, but I want to get good at it. Any constructive
-advice from seasoned vets, specifically about [why (https://en.wikipedia.org/wiki/Causality) some code I wrote is
+advice from seasoned vets, specifically about [why] (https://en.wikipedia.org/wiki/Causality) some code I wrote is
 bad, how to properly attribute credit to the authors of the code I reuse, is always really appreciated.
